@@ -1,0 +1,1293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"local",
+				"localToContent()	DisplayObject"
+			],
+			[
+				"cont",
+				"contentToLocal()	DisplayObject"
+			],
+			[
+				"barrel",
+				"barrelTargetRect"
+			],
+			[
+				"els",
+				"elseif"
+			],
+			[
+				"stars",
+				"starsCount"
+			],
+			[
+				"astro",
+				"astronautsSaved"
+			],
+			[
+				"as",
+				"astronautsSaved"
+			],
+			[
+				"sc",
+				"screenOriginY"
+			],
+			[
+				"level",
+				"levelStars"
+			],
+			[
+				"HU",
+				"HUDScore"
+			],
+			[
+				"no",
+				"noOfAstronauts"
+			],
+			[
+				"le",
+				"levelEnabled"
+			],
+			[
+				"btnLevel",
+				"btnLevelGrp"
+			],
+			[
+				"newr",
+				"display.newRoundedRect()	display"
+			],
+			[
+				"rock",
+				"rocket"
+			],
+			[
+				"display",
+				"displayGroup"
+			],
+			[
+				"joy",
+				"joyGroup"
+			],
+			[
+				"HUD",
+				"HUDLevel"
+			],
+			[
+				"emitter",
+				"emitterSparks"
+			],
+			[
+				"new",
+				"display.newImageRect()	display"
+			],
+			[
+				"pa",
+				"particleSystem"
+			],
+			[
+				"remo",
+				"removeSelf"
+			],
+			[
+				"perf",
+				"performWithDelay"
+			],
+			[
+				"remove",
+				"composer.removeScene()	composer"
+			],
+			[
+				"btnScann",
+				"btnScannerTap"
+			],
+			[
+				"btnA",
+				"btnAutoAltitudeTap"
+			],
+			[
+				"btnR",
+				"btnResetTap"
+			],
+			[
+				"phys",
+				"physics.start()	physics"
+			],
+			[
+				"scene",
+				"sceneGroup"
+			],
+			[
+				"btn",
+				"btnAutoAltitude"
+			],
+			[
+				"sceneGr",
+				"sceneGroup:insert"
+			],
+			[
+				"physics",
+				"physics.start()	physics"
+			],
+			[
+				"pla",
+				"planetNo"
+			],
+			[
+				"tmr",
+				"tmrVolcano"
+			],
+			[
+				"timer",
+				"timer.cancel()	timer"
+			],
+			[
+				"part",
+				"particleParams_red"
+			],
+			[
+				"phy",
+				"physics"
+			],
+			[
+				"music",
+				"musicChannel"
+			],
+			[
+				"worl",
+				"worldSize"
+			],
+			[
+				"sou",
+				"soundChannel2"
+			],
+			[
+				"se",
+				"audio.setVolume()	audio"
+			],
+			[
+				"musi",
+				"musicChannel"
+			],
+			[
+				"barrelHolo",
+				"barrelHoloDistance"
+			],
+			[
+				"barrels",
+				"barrelScannerTarget"
+			],
+			[
+				"barre",
+				"barrelFuel1"
+			],
+			[
+				"astrooh",
+				"astroHoloDistance"
+			],
+			[
+				"astroHolo",
+				"astroHoloDistance"
+			],
+			[
+				"astr",
+				"astroHolo"
+			],
+			[
+				"astron",
+				"astronauts"
+			],
+			[
+				"astroIma",
+				"astroImageScanner"
+			],
+			[
+				"ac",
+				"active"
+			],
+			[
+				"btnAu",
+				"btnAutoAltText"
+			],
+			[
+				"auto",
+				"autoAltitudeControl"
+			],
+			[
+				"max",
+				"math.max()	math"
+			],
+			[
+				"op",
+				"operation"
+			],
+			[
+				"stop",
+				"audio.stopWithDelay()	audio"
+			],
+			[
+				"is",
+				"audio.isChannelPaused()	audio"
+			],
+			[
+				"audio",
+				"audio.dispose()	audio"
+			],
+			[
+				"soi",
+				"soundMusic"
+			],
+			[
+				"s",
+				"audio.stop()	audio"
+			],
+			[
+				"fa",
+				"audio.fadeOut()	audio"
+			],
+			[
+				"sel",
+				"selections"
+			],
+			[
+				"show",
+				"showGirl"
+			],
+			[
+				"transition",
+				"transition.cancel()	transition"
+			],
+			[
+				"ans",
+				"answer2OK"
+			],
+			[
+				"lo",
+				"audio.loadStream()	audio"
+			],
+			[
+				"get",
+				"system.getTimer()	system"
+			],
+			[
+				"ti",
+				"system.getTimer()	system"
+			],
+			[
+				"ran",
+				"math.randomseed()	math"
+			],
+			[
+				"newRect",
+				"newRect"
+			],
+			[
+				"setco",
+				"setStrokeColor()	ShapeObject"
+			],
+			[
+				"setF",
+				"setFillColor()	ShapeObject"
+			],
+			[
+				"newre",
+				"display.newRect()	display"
+			],
+			[
+				"postit",
+				"postit"
+			],
+			[
+				"postits",
+				"postitsGroup"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"actual",
+				"display.actualContentWidth	display"
+			],
+			[
+				"newima",
+				"display.newImageRect()	display"
+			],
+			[
+				"composi",
+				"compositePaint"
+			],
+			[
+				"sheet",
+				"sheetRobotInfo"
+			],
+			[
+				"newim",
+				"display.newImageRect()	display"
+			],
+			[
+				"pi",
+				"display.pixelWidth	display"
+			],
+			[
+				"scale",
+				"xScale"
+			],
+			[
+				"con",
+				"display.contentCenterY	display"
+			],
+			[
+				"jsAN",
+				"jsAngleinrad"
+			],
+			[
+				"re",
+				"display.remove()	display"
+			],
+			[
+				"game",
+				"gamedata"
+			],
+			[
+				"load",
+				"loadGame"
+			],
+			[
+				"end",
+				"endIt"
+			],
+			[
+				"removeS",
+				"removeSelf()	DisplayObject"
+			],
+			[
+				"st",
+				"stop()	EmitterObject"
+			],
+			[
+				"j",
+				"joystick"
+			],
+			[
+				"spar",
+				"sparkActive"
+			],
+			[
+				"emitterS",
+				"emitterSparks:start"
+			],
+			[
+				"spark",
+				"sparksY"
+			],
+			[
+				"emit",
+				"emitterSparks"
+			],
+			[
+				"emi",
+				"emitterSparks"
+			],
+			[
+				"emitt",
+				"emitterExplosion"
+			],
+			[
+				"an",
+				"angle"
+			],
+			[
+				"star",
+				"start()	EmitterObject"
+			],
+			[
+				"flame",
+				"flameGroup"
+			],
+			[
+				"pau",
+				"pause()	EmitterObject"
+			],
+			[
+				"transi",
+				"transition.cancel()	transition"
+			],
+			[
+				"astrona",
+				"astronaut"
+			],
+			[
+				"move",
+				"transition.moveTo()	transition"
+			],
+			[
+				"obje",
+				"event.object1	collision"
+			],
+			[
+				"physi",
+				"physics.start()	physics"
+			],
+			[
+				"ta",
+				"event.target	completion"
+			],
+			[
+				"newIma",
+				"display.newImageRect()	display"
+			],
+			[
+				"to",
+				"toBack()	DisplayObject"
+			],
+			[
+				"scr",
+				"scrH"
+			],
+			[
+				"ene",
+				"energy"
+			],
+			[
+				"fue",
+				"fuel_max"
+			],
+			[
+				"d",
+				"d_fuel"
+			],
+			[
+				"fuel",
+				"fuel_max"
+			],
+			[
+				"energy",
+				"energy_max"
+			],
+			[
+				"tra",
+				"transition.cancel()	transition"
+			],
+			[
+				"spdv",
+				"spdVerPnt"
+			],
+			[
+				"getve",
+				"getLinearVelocity()	Body"
+			],
+			[
+				"set",
+				"physics.setGravity()	physics"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"add",
+				"addEventListener()	EventListener"
+			],
+			[
+				"ra",
+				"math.rad()	math"
+			],
+			[
+				"a",
+				"angles"
+			],
+			[
+				"ph",
+				"physics"
+			],
+			[
+				"power",
+				"powerOnRight"
+			],
+			[
+				"po",
+				"powerOnLeft"
+			],
+			[
+				"ro",
+				"rotation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 1159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "globals.lua",
+			"settings":
+			{
+				"buffer_size": 3285,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "astronaut.lua",
+			"settings":
+			{
+				"buffer_size": 7254,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "barrel.lua",
+			"settings":
+			{
+				"buffer_size": 2333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "level.lua",
+			"settings":
+			{
+				"buffer_size": 42761,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "intermediate.lua",
+			"settings":
+			{
+				"buffer_size": 7680,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "utils.lua",
+			"settings":
+			{
+				"buffer_size": 7515,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 187.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: for",
+				"Snippet: for i=1,10"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/main.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/globals.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/astronaut.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/barrel.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/level.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/intermediate.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/utils.lua",
+		"/Users/tom/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tom/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tom/Desktop/main.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/joystick.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.30/performance.lua",
+		"/Users/tom/Desktop/OneDrive/Mali Matematicari 2.02/Animacija/animacije/animacije/myScene.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.22/globals.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.22/astronaut.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.22/performance.lua",
+		"/Applications/CoronaSDK/SampleCode/Physics/LiquidFun-RayCasting/main.lua",
+		"/Applications/CoronaSDK/SampleCode/Physics/LiquidFun-ColorFaucet/main.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.22/main.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.21/utils.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.21/joystick.lua",
+		"/Users/tom/Desktop/Irena/main.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.20/main.lua",
+		"/Users/tom/Desktop/RobotTest/robotv1.lua",
+		"/Users/tom/Desktop/RobotTest/robot.lua",
+		"/Users/tom/Desktop/RobotTest/main.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.20/utils.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.20/astronaut.lua",
+		"/Users/tom/Desktop/OneDrive/Lander 1.20/joystick.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2.02/Animacija/animacije/animacije/globals.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2.02/Animacija/animacije/animacije/main.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2.01/Animacija/animacije/animacije/myGameScene.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2.01/Animacija/animacije/animacije/config.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2.01/Animacija/animacije/animacije/main.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/pex.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/main.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/myGameScene.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.02/game.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.02/gameover.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/config.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/LevelHelper2-API/Animations/LHAnimation.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/myScene.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/LevelHelper2-API/Nodes/LHBone.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/build.settings",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/LH2-Published/girl1.json",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/animacije/animacije/LevelHelper2-API/LHScene.lua",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/Girl1/girl1.json",
+		"/Users/tom/Desktop/Mali Matematicari 2/Animacija/Girl1/girl1.lua",
+		"/Applications/CoronaSDK/SampleCode/Graphics-Premium/PatternFill/main.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.02/main.lua",
+		"/Users/tom/Desktop/ContentScaling/main.lua",
+		"/Users/tom/Desktop/temp2/test2/Sprites1.lua",
+		"/Users/tom/Desktop/ContentScaling/config.lua",
+		"/Users/tom/Desktop/Lander1.16/config.lua",
+		"/Users/tom/Desktop/Lander1.16/main.lua",
+		"/Users/tom/Downloads/skybox-master/main.lua",
+		"/Users/tom/Desktop/Lander1.16/ssk/libs/inputs/joystick.lua",
+		"/Users/tom/Desktop/Lander1.16/ssk/autodoc.lua",
+		"/Users/tom/Desktop/Lander1.14/main.lua",
+		"/Users/tom/Desktop/Lander1.13/performance.lua",
+		"/Users/tom/Desktop/Lander1.13/main.lua",
+		"/Users/tom/Desktop/Lander1.13/pex/rocketthruster.pex",
+		"/Users/tom/Desktop/Lander1.13/pex/rocketburner.pex",
+		"/Applications/CoronaSDK/SampleCode/Graphics-Premium/EmitterBasic3/main.lua",
+		"/Applications/CoronaSDK/SampleCode/Graphics-Premium/EmitterBasic3/particleDesigner.lua",
+		"/Users/tom/Desktop/Lander1.12/main.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.02/build.settings",
+		"/Applications/CoronaSDK/SampleCode/Physics/RagDoll/main.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.01/pex/particle.pex",
+		"/Users/tom/Desktop/Mali Matematicari 1.01/gameover.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.01/game.lua",
+		"/Users/tom/Desktop/Mali Matematicari 1.01/main.lua",
+		"/Users/tom/Desktop/Lander1.10/main.lua",
+		"/Users/tom/Desktop/Lander1.09/main.lua",
+		"/Users/tom/Desktop/Lander1.09/pex.lua",
+		"/Users/tom/Desktop/pex4corona-master/main.lua",
+		"/Users/tom/Desktop/Lander/joystick.lua",
+		"/Users/tom/Desktop/Lander/main.lua",
+		"/Users/tom/Desktop/Lander/particles.lua",
+		"/Users/tom/Desktop/Lander/helper.lua",
+		"/Users/tom/Desktop/Lander/hud.lua",
+		"/Users/tom/Desktop/Lander/CBEffects/cbe_core/vent_core/core.lua",
+		"/Users/tom/Desktop/CBEffects-master/samples/Interactivity/MoveToTap.lua",
+		"/Users/tom/Desktop/Development/Little Lawn Mower/main.lua",
+		"/Applications/CoronaSDK/SampleCode/Physics/Png2Box2D/main.lua",
+		"/Applications/CoronaSDK/SampleCode/Physics/ShapeTumbler/main.lua",
+		"/Users/tom/Desktop/Lander/build.settings",
+		"/Users/tom/Desktop/CBEffects-master/CBEffects/cbe_core/vent_core/core.lua",
+		"/Users/tom/Desktop/CBEffects-master/samples/PositionType/LaserTest2.lua",
+		"/Applications/CoronaSDK/SampleCode/Graphics-Premium/Perspective/main.lua",
+		"/Users/tom/Desktop/CBEffects-master/CBEffects/cbe_core/misc/presets.lua",
+		"/Users/tom/Desktop/CBEffects-master/samples/ExampleEffects/Explosion1.lua",
+		"/Users/tom/Desktop/CBEffects-master/samples/PositionType/LaserTest.lua",
+		"/Users/tom/Desktop/CBEffects-master/build.settings",
+		"/Users/tom/Desktop/CBEffects-master/samples/Dynamics/RadiusTransition.lua",
+		"/Users/tom/Desktop/Development/MaliMatematicari/gameover.lua",
+		"/Users/tom/Desktop/Development/MaliMatematicari/game.lua",
+		"/Users/tom/Desktop/Development/MaliMatematicari/build.settings",
+		"/Users/tom/Desktop/Development/MaliMatematicari/res/write.mp3",
+		"/Users/tom/Desktop/Development/MaliMatematicari/res/dpink.png",
+		"/Users/tom/Desktop/Development/MaliMatematicari/res/dblue.png",
+		"/Users/tom/Desktop/Development/MaliMatematicari/res/chalkboard.png",
+		"/Users/tom/Desktop/Development/MaliMatematicari/config.lua",
+		"/Users/tom/Downloads/Simple-Table-Load-Save-Functions-for-Corona-SDK-master/loadsave.lua",
+		"/Users/tom/Desktop/Development/MaliMatematicari/loadsave.lua",
+		"/Users/tom/Desktop/Development/MaliMatematicari/globals.lua",
+		"/Users/tom/Desktop/Development/MaliMatematicari/main.lua",
+		"/Users/tom/Desktop/test2/Icon-Small@2x.png",
+		"/Users/tom/Desktop/test2/main.lua",
+		"/Users/tom/Desktop/MaliMatematicari/intro.lua",
+		"/Users/tom/Desktop/MaliMatematicari/main.lua"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"barrelTargetRect",
+			"barrel",
+			"holo",
+			"g.barrel",
+			"rocketPreCollision",
+			"G.HUDScore",
+			"G.HUDLevel",
+			"G.HUDScore",
+			"g.gamedata",
+			"score",
+			"hiscore",
+			"hi-score",
+			"stars",
+			"event.params.level",
+			"HUDLevel",
+			"enabled",
+			"score",
+			"G.skyX",
+			"btnre",
+			"newmissiontext",
+			"createtext",
+			"setup",
+			"sndSystem",
+			"HUDScoreTxt",
+			"score",
+			"hiscore",
+			"AstroRemainTxt",
+			"G.HIScoreTxt",
+			"hiscore",
+			"g.hudscor",
+			"score",
+			"btnreset",
+			"btnresetimage",
+			"btnreset.x",
+			"btnreset",
+			"gameover",
+			"saveta",
+			"score",
+			"gameover",
+			"savetable",
+			"gameover",
+			"loadtable",
+			"btnreset",
+			"spdhor",
+			"hud",
+			"G.sky.rotation",
+			"rotation",
+			"LEVEL",
+			"barrel",
+			"level",
+			"g.planetno",
+			"btnAutoAltitudeActive",
+			"autoaltitude",
+			"collisionoff",
+			"astronautCollision",
+			"params.displayGroup",
+			"astronautCollision",
+			"planet",
+			"sky",
+			"holo",
+			"holoh",
+			"G.rocket.rotation%360",
+			"G.btnAutoAltitudeActive",
+			"sky.x",
+			"joystick",
+			"G.sky.dx",
+			"g.sky.rot",
+			"g.sky.y",
+			"g.deg",
+			"deg",
+			"G.deg",
+			"G.sky.x",
+			"r=",
+			"G.cnt",
+			"G.deg",
+			"G.cnt",
+			"goto",
+			"U.particleSystem",
+			"volcano",
+			"G.HUDScore",
+			"score",
+			"G.HUDLevel",
+			"HIScore",
+			"G.HUDLevelTxt",
+			"G.HUDScoreTxt",
+			"G.HIScoreTxt",
+			"G.HUDLevel",
+			"G.levelCleared",
+			"levelCleared",
+			"level=1",
+			"G.newLevel",
+			"G.astronautsSaved",
+			"astronautssa",
+			"G.levelCleared",
+			"G.HUDScore",
+			"G.gamedata.HIScore",
+			"load",
+			"G.textOnce=true",
+			"G.textOnce",
+			"G.fuel",
+			"fuel<=",
+			"fuel <=",
+			"fuel<=",
+			"G.planetNo",
+			"planetNo",
+			"astronautssaved",
+			"G.textOnce",
+			"levelcleared",
+			"btnreset",
+			"rocketScannerTarget",
+			"textOnce",
+			"levelCleared",
+			"levelcleared",
+			"joint",
+			"G.jointsMaxForce",
+			"joints",
+			"energy",
+			"barrel",
+			"barrel1",
+			"G.barrelFuel1.remove",
+			"G.barrelFuel1",
+			"barrelholo",
+			"astroHolo",
+			"astronaut:new",
+			"destroy",
+			"animate",
+			"js",
+			"U.particleSystem"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"G.AstroRemainTxt",
+			"G.sndSystem",
+			"G.sndGameOver",
+			"G.sndTargetExpedite",
+			"G.sndTarget2",
+			"G.sndTarget1",
+			"G.music3",
+			"G.music2",
+			"G.music1",
+			"G.btnAutoAltitudeActive",
+			"music1",
+			"maxImpulse",
+			"U.worldSize",
+			"worldSize*0.5",
+			"worldSize",
+			"btnAutoAltitude.active",
+			"GLOC",
+			"G.",
+			"rocket",
+			"rocketGroup",
+			"display_newImageRect",
+			"local ",
+			"P",
+			"h.scrH",
+			"h.scrW",
+			"G.broj_zadataka",
+			"G.gamedata.totalScore"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "globals.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "astronaut.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7254,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "barrel.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "level.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "intermediate.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7680,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "utils.lua",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7515,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".",
+									"selector": "source.lua.corona"
+								}
+							],
+							"syntax": "Packages/Corona Editor/CoronaSDKLua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 157.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Lander.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
